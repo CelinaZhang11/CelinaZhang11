@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     <b>Hello, I'm Celina👋👩‍💻</b>
-    <br><br>
+    <br>
     👩‍🏫 I'm a 2nd year student in BSc Computer Science @ UdeM.
     💡 I’m interested in UX/UI development, cybersecurity and project management.
     🌱 Currently seeking an internship for Summer 2024.
