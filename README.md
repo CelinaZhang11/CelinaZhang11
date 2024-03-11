@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/assets/chibi-omen.jpg" width="25%" align="right" />
+<img src="/assets/crying_sage.png" width="25%" align="right" />
 <br><br>
 <pre>
     <b>Hello, I'm Celina👋👩‍💻</b>
